@@ -1,0 +1,36 @@
+Lista di Indirizzi:
+
+----------------
+Nome e Cognome: John  Doe
+Indirizzo: 120 jefferson st., Riverside (NJ), 08075
+----------------
+
+----------------
+Nome e Cognome: Jack  McGinnis
+Indirizzo: 220 hobo Av., Phila (PA), 09119
+----------------
+
+----------------
+Nome e Cognome: John Da Man  Repici
+Indirizzo: 120 Jefferson St., Riverside (NJ), 08075
+----------------
+
+----------------
+Nome e Cognome: Stephen  Tyler
+Indirizzo: 7452 Terrace "At the Plaza" road, SomeTown (SD), 91234
+----------------
+
+----------------
+Nome e Cognome: Joan Jet Anne
+Indirizzo: 9th at Terrace plc, Desert City (CO), 00123
+----------------
+
+----------------
+Nome e Cognome: (unknowData)  Blankman
+Indirizzo: (unknowData), New York (NY), 100101
+----------------
+
+----------------
+Nome e Cognome: Joan  (unknowData)
+Indirizzo: (unknowData), SomeTown (SD), 00298
+----------------
